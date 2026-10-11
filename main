@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quitté(e) : Les 30 Jours Qui Décident de Tout — Ebook</title>
+<meta name="description" content="Le guide pour ne pas tout gâcher après une rupture et savoir si tu peux récupérer ton ex. 4 999 FCFA au lieu de 15 000.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0b0b0d;--card:#16161a;--line:#2a2a31;--y:#ffd21f;--r:#e8344a;--t:#f4f4f5;--m:#b4b4bd}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--t);font:17px/1.6 Inter,system-ui,sans-serif;padding-bottom:84px}
+h1,h2,h3{font-family:Anton,Impact,sans-serif;font-weight:400;line-height:1.1;letter-spacing:.3px}
+h2{font-size:clamp(28px,6vw,42px);margin-bottom:18px}
+h3{font-size:22px;margin-bottom:6px}
+a{color:inherit}
+.w{max-width:760px;margin:0 auto;padding:0 20px}
+section{padding:52px 0;border-top:1px solid var(--line)}
+.y{color:var(--y)}.r{color:var(--r)}.m{color:var(--m)}
+p{margin-bottom:14px}
+.bar{background:var(--r);text-align:center;padding:9px 12px;font-weight:800;font-size:14px}
+.bar b{font-variant-numeric:tabular-nums}
+.btn{display:block;background:var(--y);color:#111;text-align:center;font-weight:800;font-size:19px;padding:18px 22px;border-radius:10px;text-decoration:none;box-shadow:0 0 0 0 rgba(255,210,31,.6);animation:pulse 2s infinite}
+.btn small{display:block;font-weight:600;font-size:13px;opacity:.8}
+@keyframes pulse{70%{box-shadow:0 0 0 16px rgba(255,210,31,0)}100%{box-shadow:0 0 0 0 rgba(255,210,31,0)}}
+@media(prefers-reduced-motion:reduce){.btn{animation:none}html{scroll-behavior:auto}}
+.hero{text-align:center;padding:36px 0 48px}
+.hero h1{font-size:clamp(34px,8.4vw,60px);margin-bottom:14px}
+.hero .sub{font-size:19px;color:var(--m);margin-bottom:22px}
+.cover{width:min(78%,360px);border-radius:8px;box-shadow:0 20px 60px rgba(255,210,31,.18);margin:6px auto 24px;display:block}
+.price{margin:22px 0 14px}
+.old{color:var(--m);text-decoration:line-through;font-size:20px}
+.new{font-family:Anton,sans-serif;font-size:clamp(30px,9vw,52px);color:var(--y);line-height:1.1}.sep{color:var(--m);font-size:.55em;margin:0 8px}.pay{margin-top:14px;font-size:14px;color:var(--m);text-align:center}.pay b{color:var(--t)}
+.eur{color:var(--m);font-size:15px}
+.badges{display:flex;flex-wrap:wrap;gap:8px 16px;justify-content:center;margin-top:16px;font-size:14px;color:var(--m)}
+.box{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px;margin-bottom:14px}
+.box.hl{border-color:var(--y)}
+ul.x{list-style:none}
+ul.x li{padding:9px 0 9px 32px;position:relative;border-bottom:1px solid var(--line)}
+ul.x li:last-child{border:0}
+ul.x li:before{content:"✕";position:absolute;left:0;color:var(--r);font-weight:800}
+ul.v li:before{content:"✓";color:var(--y)}
+.row{display:flex;justify-content:space-between;gap:14px;padding:10px 0;border-bottom:1px solid var(--line)}
+.row span:last-child{color:var(--y);font-weight:800;white-space:nowrap}
+.tot{font-size:19px;font-weight:800;border:0}
+.ph{border:2px dashed var(--line);border-radius:12px;padding:22px;text-align:center;color:var(--m);margin-bottom:12px}
+details{background:var(--card);border:1px solid var(--line);border-radius:10px;margin-bottom:10px;padding:0 18px}
+summary{cursor:pointer;font-weight:800;padding:16px 0;list-style:none}
+summary::after{content:"+";float:right;color:var(--y);font-size:22px}
+details[open] summary::after{content:"–"}
+details p{color:var(--m)}
+.sticky{position:fixed;left:0;right:0;bottom:0;background:#0b0b0df2;border-top:1px solid var(--line);padding:10px 16px;z-index:9}
+.sticky .btn{padding:13px;font-size:17px;animation:none}
+footer{padding:30px 0 20px;color:var(--m);font-size:13px;text-align:center}
+:focus-visible{outline:3px solid var(--y);outline-offset:3px}
+</style>
+</head>
+<body>
+<div class="bar">🔥 PROMO DU JOUR : 4 999 FCFA (7,60 €) au lieu de 15 000 FCFA (22,90 €) · fin dans <b id="cd">--:--:--</b></div>
+
+<header class="hero"><div class="w">
+<p class="m" style="font-weight:800">EBOOK · GUIDE PRATIQUE</p>
+<h1>Quitté(e) ? Les <span class="y">30 jours</span> qui décident de tout.</h1>
+<p class="sub">Le guide pour <b class="y">ne pas tout gâcher</b> après la rupture, retrouver ton calme et savoir si tu peux <b class="y">récupérer ton ex</b>.</p>
+<img class="cover" src="couverture.png" alt="Couverture de l'ebook Quitté(e) : les 30 jours qui décident de tout" width="360">
+<div class="price">
+<div class="old">Valeur : 15 000 FCFA · 22,90 €</div>
+<div class="new">4 999 FCFA<span class="sep">|</span>7,60 €</div>
+<div class="eur">Paiement unique · accès immédiat</div>
+</div>
+<a class="btn" href="https://sante-mental.mychariow.shop/prd_6efkhscj/checkout">OUI, JE VEUX MON GUIDE MAINTENANT<small>4 999 FCFA · 7,60 € · Ebook + 4 bonus offerts</small></a>
+<div class="badges"><span>✔ Afrique : Mobile Money (Wave, Orange Money, MTN MoMo)</span><span>✔ Europe : carte bancaire</span><span>✔ Lecture sur téléphone</span><span>✔ Hommes et femmes</span></div>
+</div></header>
+
+<section><div class="w">
+<h2>Tu es en train de vivre ça, <span class="r">non ?</span></h2>
+<ul class="x">
+<li>Tu relis ses anciens messages en boucle.</li>
+<li>Tu as écrit un long message… que tu n'oses pas envoyer. Ou que tu as déjà envoyé, et tu le regrettes.</li>
+<li>Tu vérifies son profil ou son « en ligne » dix fois par jour.</li>
+<li>Tu dors mal, tu manges mal, tu n'arrives plus à te concentrer.</li>
+<li>Tu te demandes : « Et si je fais encore une erreur, je le/la perds pour toujours ? »</li>
+</ul>
+<p style="margin-top:18px"><b>Ce n'est pas de la faiblesse.</b> C'est la douleur d'un deuil. Mais dans les <b class="y">30 premiers jours</b>, cette douleur te pousse à faire exactement ce qui éloigne l'autre.</p>
+</div></section>
+
+<section><div class="w">
+<h2>La vérité que personne ne te dit</h2>
+<p>Supplier, harceler, envoyer des pavés, faire jalouser, passer par la famille : <b>ce sont les erreurs n°1</b> après une rupture. Elles transforment une relation « en pause » en relation « terminée ».</p>
+<p>Ce guide ne te promet pas de miracle. Il te donne <b class="y">un plan jour par jour</b> pour arrêter de t'enfoncer, te reconstruire et, si c'est possible, rouvrir la porte au bon moment et de la bonne façon.</p>
+</div></section>
+
+<section><div class="w">
+<h2>Ce que tu vas recevoir</h2>
+<div class="box hl">
+<h3 class="y">L'ebook « Quitté(e) : Les 30 Jours Qui Décident de Tout »</h3>
+<ul class="x v">
+<li>Comprendre ce qui t'arrive vraiment (et pourquoi tu paniques)</li>
+<li>Les 9 erreurs qui éloignent ton ex, à stopper dès aujourd'hui</li>
+<li>Jours 1 à 3 : stopper l'hémorragie, ne rien aggraver</li>
+<li>Jours 4 à 14 : la règle du silence, expliquée simplement</li>
+<li>Jours 15 à 21 : te reconstruire, avec le bilan honnête en 3 colonnes</li>
+<li>Les cas difficiles : bloqué(e) partout, ex avec quelqu'un d'autre, infidélité, pression de la famille</li>
+<li>Jours 22 à 30 : le test « suis-je prêt(e) ? » et les 5 règles du premier message</li>
+<li>Savoir quand se battre… et quand lâcher prise</li>
+<li>Le plan des 30 jours en un coup d'œil</li>
+</ul>
+</div>
+<h2 style="margin-top:34px">+ 4 bonus offerts</h2>
+<div class="box"><h3>Bonus 1 : 15 messages prêts à envoyer</h3><p class="m">Premier contact, réponse quand il/elle t'écrit, clôture digne, proposition de se voir. Tu copies, tu adaptes, tu envoies.</p></div>
+<div class="box"><h3>Bonus 2 : Le journal des 30 jours</h3><p class="m">Une action simple par jour à cocher. Tu sais toujours quoi faire, même quand tu es perdu(e).</p></div>
+<div class="box"><h3>Bonus 3 : Le plan SOS « 2 heures du matin »</h3><p class="m">5 étapes pour ne pas envoyer le message que tu regretteras demain.</p></div>
+<div class="box"><h3>Bonus 4 : Le test « Dois-je me battre ? »</h3><p class="m">12 questions pour savoir si cette relation mérite vraiment ton énergie.</p></div>
+</div></section>
+
+<section><div class="w">
+<h2>Ce que tu obtiens, et ce que ça vaut</h2>
+<div class="box">
+<div class="row"><span>Ebook complet (30 jours)</span><span>8 000 FCFA</span></div>
+<div class="row"><span>Bonus 1 : 15 messages prêts à envoyer</span><span>2 500 FCFA</span></div>
+<div class="row"><span>Bonus 2 : Journal des 30 jours</span><span>2 000 FCFA</span></div>
+<div class="row"><span>Bonus 3 : Plan SOS 2 h du matin</span><span>1 500 FCFA</span></div>
+<div class="row"><span>Bonus 4 : Test « Dois-je me battre ? »</span><span>1 000 FCFA</span></div>
+<div class="row tot"><span>Valeur totale</span><span style="color:var(--m);text-decoration:line-through">15 000 FCFA · 22,90 €</span></div>
+<div class="row tot" style="border:0"><span>Ton prix aujourd'hui</span><span style="font-size:24px">4 999 FCFA · 7,60 €</span></div>
+<p class="eur" style="text-align:right;margin:0">Paiement unique</p>
+</div>
+<p class="m">Pense à ce que te coûte déjà cette rupture : des nuits blanches, de la concentration perdue, et une erreur qui peut tout fermer. Le prix d'un repas pour éviter ça.</p>
+<a class="btn" href="https://sante-mental.mychariow.shop/prd_6efkhscj/checkout">JE PRENDS LE GUIDE À 4 999 FCFA / 7,60 €<small>4 999 FCFA · 7,60 € · Accès immédiat</small></a>
+</div></section>
+
+<section><div class="w">
+<h2>Ce guide est pour toi si…</h2>
+<ul class="x v">
+<li>Tu viens de te faire quitter(e) et tu ne sais pas quoi faire.</li>
+<li>Tu as déjà fait des erreurs et tu veux les réparer calmement.</li>
+<li>Tu veux comprendre si ça vaut la peine de te battre.</li>
+<li>Tu veux un plan clair, simple, lisible sur ton téléphone.</li>
+</ul>
+<h2 style="margin-top:30px">Ce guide n'est pas pour toi si…</h2>
+<ul class="x">
+<li>Tu cherches une méthode magique pour forcer quelqu'un à t'aimer.</li>
+<li>Tu veux manipuler ton ex ou te venger.</li>
+<li>Tu n'es pas prêt(e) à travailler sur toi-même.</li>
+</ul>
+</div></section>
+
+<section><div class="w">
+<h2>Zéro risque pour toi</h2>
+<div class="box hl"><h3 class="y">Garantie satisfait ou remboursé 7 jours</h3>
+<p style="margin:0">Lis le guide. Si tu estimes qu'il ne t'apporte rien, écris-nous dans les 7 jours : tu es remboursé(e), sans discussion. Tu n'as rien à perdre, sauf tes erreurs.</p></div>
+</div></section>
+
+<section><div class="w">
+<h2>Tes doutes, nos réponses</h2>
+<details><summary>Est-ce que mon ex va revenir à coup sûr ?</summary><p>Non, et personne honnête ne peut te le promettre. Ce guide maximise tes chances en évitant les erreurs, en te reconstruisant et en te disant quand agir. Et si ça ne marche pas, tu sors de la rupture plus fort(e).</p></details>
+<details><summary>C'est pour les hommes ou pour les femmes ?</summary><p>Pour tout le monde. Le guide est écrit pour « la personne quittée », homme ou femme.</p></details>
+<details><summary>Comment je reçois l'ebook ?</summary><p>Tout de suite après ton paiement, tu accèdes au guide et aux 4 bonus. Tu le lis sur ton téléphone, sans application spéciale.</p></details>
+<details><summary>Comment je peux payer ?</summary><p>En Afrique : Mobile Money (Wave, Orange Money, MTN MoMo). En Europe : carte bancaire. Le prix est de 4 999 FCFA, soit environ 7,60 €.</p></details>
+<details><summary>C'est trop tard, il/elle est déjà avec quelqu'un d'autre.</summary><p>Un chapitre entier traite des cas difficiles : ex déjà en couple, blocage, infidélité, pression de la famille.</p></details>
+<details><summary>Je suis très mal, ça peut m'aider ?</summary><p>Oui, tu y trouveras un plan pour tenir les premiers jours. Si tu as des pensées de te faire du mal, parle immédiatement à un proche ou à un professionnel de santé.</p></details>
+<details><summary>Et si le guide ne me plaît pas ?</summary><p>Tu as 7 jours pour demander un remboursement. Zéro risque.</p></details>
+</div></section>
+
+<section><div class="w" style="text-align:center">
+<h2>Chaque jour compte. <span class="y">Agis maintenant.</span></h2>
+<p class="m">Les 30 premiers jours décident de tout. Ne les passe pas à faire les mauvais gestes.</p>
+<div class="price"><div class="old">15 000 FCFA · 22,90 €</div><div class="new">4 999 FCFA<span class="sep">|</span>7,60 €</div><div class="eur">Promo du jour</div></div>
+<a class="btn" href="https://sante-mental.mychariow.shop/prd_6efkhscj/checkout">JE REPRENDS LE CONTRÔLE MAINTENANT<small>4 999 FCFA · 7,60 € · Garantie 7 jours</small></a>
+<p class="pay">Paiement 100 % sécurisé<br><b>Afrique :</b> Mobile Money (Wave, Orange Money, MTN MoMo)<br><b>Europe :</b> carte bancaire</p>
+</div></section>
+
+<footer><div class="w"><p>Ce guide est un accompagnement personnel. Il ne remplace pas l'avis d'un professionnel de santé ou d'un psychologue. Les résultats varient selon chaque situation et chaque personne.</p><p>© Quitté(e) — Tous droits réservés</p></div></footer>
+
+<div class="sticky"><a class="btn" href="https://sante-mental.mychariow.shop/prd_6efkhscj/checkout">JE PRENDS LE GUIDE · 4 999 FCFA / 7,60 €</a></div>
+
+<script>
+(function(){var el=document.getElementById('cd');function t(){var n=new Date(),e=new Date(n);e.setHours(23,59,59,999);var s=Math.max(0,Math.floor((e-n)/1000)),h=String(Math.floor(s/3600)).padStart(2,'0'),m=String(Math.floor(s%3600/60)).padStart(2,'0'),c=String(s%60).padStart(2,'0');el.textContent=h+':'+m+':'+c}t();setInterval(t,1000)})();
+</script>
+</body>
+</html>
